@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Corentin%20Pellerin&amp;fontSize=65&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Ing%C3%A9nieur%20Informatique%20%C2%B7%20IA%20%26%20Data&amp;descAlignY=55&amp;descSize=22&amp;descColor=8b949e"/>
 
 <!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=🤖+Machine+Learning+%26+Deep+Learning;📊+Data+Analysis+%26+Anomaly+Detection;🎓+Cycle+Ingénieur+Informatique+CY+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=🤖+Machine+Learning+%26+Deep+Learning;📊+Data+Analysis+%26+Anomaly+Detection;🎓+Cycle+Ingénieur+Informatique+à+CY+Tech)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/CY%20Tech-G%C3%A9nie%20Informatique-58a6ff?style=for-the-badge&amp;logo=graduation-cap&amp;logoColor=white&amp;labelColor=0d1117"/>
